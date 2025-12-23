@@ -238,9 +238,10 @@ See [`docs/STRUCTURE.md`](docs/STRUCTURE.md) for detailed documentation.
 ## Citation
 
 ```bibtex
-@article{dalal2025citynav,
+@article{dalal2025city,
   title={City Navigation in the Wild: Exploring Emergent Navigation from Web-Scale Knowledge in MLLMs},
   author={Dalal, Dwip and Mishra, Utkarsh and Ahuja, Narendra and Jojic, Nebojsa},
+  journal={arXiv preprint arXiv:2512.15933},
   year={2025}
 }
 ```
