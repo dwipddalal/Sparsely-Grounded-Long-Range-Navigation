@@ -64,6 +64,10 @@ For efficient long-horizon reasoning (50+ decisions), AgentNav uses three memory
 | **Decision History** | Ordered sequence of past actions for trajectory awareness |
 | **Previous Visit Tracking** | Detects loops by tracking visit counts at each intersection |
 
+
+<img width="1621" height="720" alt="image" src="https://github.com/user-attachments/assets/1a600589-0d5c-440b-bd6d-eb2749b076fe" />
+
+
 ---
 
 ## Dataset: CityNav Benchmark
