@@ -5,7 +5,7 @@
 
 Official implementation for **"City Navigation in the Wild: Exploring Emergent Navigation from Web-Scale Knowledge in MLLMs"**.
 
-**[Project Page](https://dwipddalal.github.io/AgentNav/)** | **[Paper (arXiv)]()** | **[Dataset]()** 
+**[Project Page](https://dwipddalal.github.io/AgentNav/)** | **[Paper (arXiv)](https://arxiv.org/abs/2512.15933)** | **[Dataset]()** 
 
 <!-- See project page for figures: https://dwipddalal.github.io/AgentNav/ -->
 
